@@ -1,0 +1,25 @@
+{
+  "name": "simple-suspension-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryHK/simple-suspension-page.git"
+  },
+  "author": "lhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryHK/simple-suspension-page/issues"
+  },
+  "homepage": "https://github.com/HenryHK/simple-suspension-page#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.2"
+  }
+}
